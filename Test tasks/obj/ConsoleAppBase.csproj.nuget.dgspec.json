@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LIS\\source\\repos\\ConsoleAppBase\\ConsoleAppBase.csproj": {}
+    "C:\\Users\\LIS\\Documents\\GitHub\\My\\Test tasks\\ConsoleAppBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LIS\\source\\repos\\ConsoleAppBase\\ConsoleAppBase.csproj": {
+    "C:\\Users\\LIS\\Documents\\GitHub\\My\\Test tasks\\ConsoleAppBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LIS\\source\\repos\\ConsoleAppBase\\ConsoleAppBase.csproj",
+        "projectUniqueName": "C:\\Users\\LIS\\Documents\\GitHub\\My\\Test tasks\\ConsoleAppBase.csproj",
         "projectName": "ConsoleAppBase",
-        "projectPath": "C:\\Users\\LIS\\source\\repos\\ConsoleAppBase\\ConsoleAppBase.csproj",
+        "projectPath": "C:\\Users\\LIS\\Documents\\GitHub\\My\\Test tasks\\ConsoleAppBase.csproj",
         "packagesPath": "C:\\Users\\LIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LIS\\source\\repos\\ConsoleAppBase\\obj\\",
+        "outputPath": "C:\\Users\\LIS\\Documents\\GitHub\\My\\Test tasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
